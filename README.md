@@ -1,5 +1,9 @@
-<h1 align="center">Hi, I'm Manas Jain</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Manas Jain</h1>
 <h3 align="center">Aspiring AI Engineer.</h3>
+<p align="center">
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+Am+Manas;I+am+pursuing+a+bachelor's+degree+in+AI;Web+Dev;Game+Dev;Bot+Dev;Crypto+Lover+%3C3"></a>
+</p>
+
 <!--
 **manas3212/manas3212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
