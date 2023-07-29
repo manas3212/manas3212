@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Manas Jain</h1>
+<h3 align="Aspiring AI Engineer.</h3>
 
 <!--
 **manas3212/manas3212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
